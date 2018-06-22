@@ -25,3 +25,7 @@ Arduino Air boat RC controller [![Donate](https://img.shields.io/badge/Donate-Pa
  
 ## Arduino library
 * PPM Reader 
+
+## Materials
+* Tested on FlySky FS-i6 Radio and Receiver FS-iA6B
+* Arduino PRO mini 3V3
