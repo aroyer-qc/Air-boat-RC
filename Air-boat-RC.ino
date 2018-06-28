@@ -53,7 +53,7 @@
 #define THROTTLE_JITTER			        50
 #define THROTTLE_DELAY_REVERSAL         65000                                   // number of iteration before allowing motor reversal
  
-#define RELAY_REVERSAL_PIN		        0 
+#define RELAY_REVERSAL_PIN		        12 
 #define NAV_LIGHT_FLASHER_PIN		    13 
 #define SERVO_RUDDER_CHANNEL_PIN		10
 	
